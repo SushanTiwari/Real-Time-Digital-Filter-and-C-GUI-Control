@@ -23,5 +23,5 @@ GUI as per user request. There are separate buttons to control start and stop of
 sampled and processed data on the GUI by receiving 100 samples from PIC. Moreover, RC lowpass filter having 322 Hz cut-off frequency is 
 used to smooth out the output signal.   
 ![midterm_system](midterm_system.png)
-![Flowchart](flowchart.jpg)
+
 
