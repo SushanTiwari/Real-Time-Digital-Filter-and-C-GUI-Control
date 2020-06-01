@@ -22,5 +22,6 @@ files stored in the same folder as the GUI application. Maximum sampling frequen
 GUI as per user request. There are separate buttons to control start and stop of sampling process. Also, there is a button to plot the
 sampled and processed data on the GUI by receiving 100 samples from PIC. Moreover, RC lowpass filter having 322 Hz cut-off frequency is 
 used to smooth out the output signal.   
-![System Schematics](midterm_schematics.png)
+![midterm_system](midterm_system.png)
+![Flowchart](flowchart.jpg)
 
